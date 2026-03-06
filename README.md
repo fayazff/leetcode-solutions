@@ -6,9 +6,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->

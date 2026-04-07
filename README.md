@@ -26,8 +26,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/fayazff/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/fayazff/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/fayazff/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/fayazff/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/fayazff/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->

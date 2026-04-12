@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/fayazff/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->

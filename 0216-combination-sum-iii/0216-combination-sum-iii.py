@@ -12,6 +12,6 @@ class Solution:
                 cur.append(x)
                 backtrack(x+1,cur,total+x)
                 cur.pop()
-            return
+            
         backtrack(1,[],0)
         return res

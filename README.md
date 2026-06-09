@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fayazff/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0216-combination-sum-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fayazff/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 ## Trie
 | Problem Name | Difficulty |

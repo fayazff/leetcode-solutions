@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0137-single-number-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/fayazff/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/fayazff/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

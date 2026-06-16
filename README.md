@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fayazff/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Two Pointers
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/fayazff/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->

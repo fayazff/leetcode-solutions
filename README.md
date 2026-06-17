@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/fayazff/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/fayazff/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/fayazff/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/fayazff/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

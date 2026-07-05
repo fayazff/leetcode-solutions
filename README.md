@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/fayazff/leetcode-solutions/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/fayazff/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0383-ransom-note](https://github.com/fayazff/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/fayazff/leetcode-solutions/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

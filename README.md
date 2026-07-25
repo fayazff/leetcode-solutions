@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/fayazff/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/fayazff/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/fayazff/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/fayazff/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |

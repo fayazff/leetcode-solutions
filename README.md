@@ -160,12 +160,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/fayazff/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/fayazff/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/fayazff/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/fayazff/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/fayazff/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/fayazff/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/fayazff/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

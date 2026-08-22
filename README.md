@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/fayazff/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/fayazff/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

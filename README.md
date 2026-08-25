@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/fayazff/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/fayazff/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/fayazff/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/fayazff/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/fayazff/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/fayazff/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/fayazff/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/fayazff/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0148-sort-list](https://github.com/fayazff/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/fayazff/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/fayazff/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->

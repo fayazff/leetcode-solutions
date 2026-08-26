@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/fayazff/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fayazff/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/fayazff/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/fayazff/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/fayazff/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/fayazff/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/fayazff/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |

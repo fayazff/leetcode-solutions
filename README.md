@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0137-single-number-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/fayazff/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/fayazff/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/fayazff/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fayazff/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/fayazff/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/fayazff/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/fayazff/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/fayazff/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/fayazff/leetcode-solutions/tree/main/0704-binary-search/) | Easy |

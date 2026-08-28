@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/fayazff/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/fayazff/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/fayazff/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fayazff/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/fayazff/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/fayazff/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/fayazff/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/fayazff/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |

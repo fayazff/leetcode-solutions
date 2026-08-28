@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/fayazff/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/fayazff/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/fayazff/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0704-binary-search](https://github.com/fayazff/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/fayazff/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0735-asteroid-collision](https://github.com/fayazff/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/fayazff/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/fayazff/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0704-binary-search](https://github.com/fayazff/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

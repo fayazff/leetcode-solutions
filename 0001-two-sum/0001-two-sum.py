@@ -1,11 +1,10 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash={}
-    
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        output=[]
+        hmap={}
         for i in range(len(nums)):
-            el=(target-nums[i])
-            if el in hash:
-                return [hash[el],i]
+            dumy=target-nums[i]
+            if dumy in hmap:
+                return [hmap[dumy],i]
             else:
-                hash[nums[i]]=i
-        
+                hmap[nums[i]]=i

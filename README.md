@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fayazff/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/fayazff/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/fayazff/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/fayazff/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fayazff/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/fayazff/leetcode-solutions/tree/main/0078-subsets/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/fayazff/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/fayazff/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/fayazff/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/fayazff/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/fayazff/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/fayazff/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/fayazff/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fayazff/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/fayazff/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/fayazff/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/fayazff/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/fayazff/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/fayazff/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/fayazff/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/fayazff/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/fayazff/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design

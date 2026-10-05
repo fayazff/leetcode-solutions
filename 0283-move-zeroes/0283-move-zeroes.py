@@ -1,13 +1,18 @@
 class Solution:
-    def moveZeroes(self, nums: List[int]) -> None:
+    def moveZeroes(self, nums: list[int]) -> None:
         """
+
         Do not return anything, modify nums in-place instead.
         """
-        count=0
-        for i in range(len(nums)-1,-1,-1):
-            if nums[i]==0:
-                count+=1
-                nums.pop(i)
-        for i in range(count):
-            nums.append(0)
-            
+        left=0
+        right=0
+        while right<len(nums):
+           
+            if nums[right]!=0:
+                dumy=nums[left]
+                nums[left]=nums[right]
+                nums[right]=dumy
+                right+=1
+                left+=1
+            else:
+                right+=1

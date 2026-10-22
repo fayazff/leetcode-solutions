@@ -5,22 +5,20 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    from collections import deque 
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-       
-        if not root:
+    from collections import deque
+    def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
+        if not root :
             return []
         res=[]
         queue=deque([root])
         while queue:
-            sublist=[]
+            subset=[]
             for _ in range(len(queue)):
                 node=queue.popleft()
-                sublist.append(node.val)
-
+                subset.append(node.val)
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            res.append(sublist)
+            res.append(subset)
         return res
